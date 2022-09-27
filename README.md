@@ -7,7 +7,7 @@ Click a box and type a number on your keybaord. To confirm that value press the 
 # Note
 To run the game simply run the GUI.py file from IDLE or the command line. Both files (Solver and GUI) must be in the same directory.
 
-You require to import the library 'Pygame' to play this game.
+You are required to import the library 'Pygame' to play this game.
 
 
 
